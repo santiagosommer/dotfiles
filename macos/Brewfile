@@ -1,0 +1,17 @@
+# ---BREW COMMANDS---
+
+# ---CLI TOOLS---
+brew "git"
+brew "neovim"
+brew "stow"
+
+# ---CASK COMMANDS---
+
+# ---MACOS AUTOMATION---
+cask "hammerspoon"
+
+# ---TERMINAL---
+cask "iterm2"
+
+# --- Network & tunneling ---
+cask "ngrok"
